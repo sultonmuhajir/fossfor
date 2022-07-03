@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/fossfor/static/css/main.491852ca.css",
+    "main.js": "/fossfor/static/js/main.61ff339c.js",
+    "static/media/bg.jpeg": "/fossfor/static/media/bg.6dea507a40e89c075c2d.jpeg",
+    "static/media/ipa4.jpeg": "/fossfor/static/media/ipa4.80ce543bd15bbbe61d2e.jpeg",
+    "static/media/srfh.jpeg": "/fossfor/static/media/srfh.04363a597fb58351b8a2.jpeg",
+    "static/media/nur.jpeg": "/fossfor/static/media/nur.f0bb622106c8ed561db6.jpeg",
+    "static/media/lail.jpeg": "/fossfor/static/media/lail.935fec04b0700972af2a.jpeg",
+    "static/media/rika.jpeg": "/fossfor/static/media/rika.2412d8606489140718af.jpeg",
+    "static/media/wez.jpeg": "/fossfor/static/media/wez.a9950d2e8e58edfe2bc4.jpeg",
+    "static/media/khoir.jpeg": "/fossfor/static/media/khoir.677abbef68eaf714af3e.jpeg",
+    "static/media/dena.jpeg": "/fossfor/static/media/dena.1ef60d6468b03534b251.jpeg",
+    "static/media/sulton.jpeg": "/fossfor/static/media/sulton.9dee64184f0694cc7fd2.jpeg",
+    "index.html": "/fossfor/index.html",
+    "main.491852ca.css.map": "/fossfor/static/css/main.491852ca.css.map",
+    "main.61ff339c.js.map": "/fossfor/static/js/main.61ff339c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.491852ca.css",
+    "static/js/main.61ff339c.js"
+  ]
+}
