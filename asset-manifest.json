@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/fossfor/static/css/main.491852ca.css",
+    "main.css": "/fossfor/static/css/main.1648d159.css",
     "main.js": "/fossfor/static/js/main.61ff339c.js",
     "static/media/bg.jpeg": "/fossfor/static/media/bg.6dea507a40e89c075c2d.jpeg",
     "static/media/ipa4.jpeg": "/fossfor/static/media/ipa4.80ce543bd15bbbe61d2e.jpeg",
@@ -13,11 +13,11 @@
     "static/media/dena.jpeg": "/fossfor/static/media/dena.1ef60d6468b03534b251.jpeg",
     "static/media/sulton.jpeg": "/fossfor/static/media/sulton.9dee64184f0694cc7fd2.jpeg",
     "index.html": "/fossfor/index.html",
-    "main.491852ca.css.map": "/fossfor/static/css/main.491852ca.css.map",
+    "main.1648d159.css.map": "/fossfor/static/css/main.1648d159.css.map",
     "main.61ff339c.js.map": "/fossfor/static/js/main.61ff339c.js.map"
   },
   "entrypoints": [
-    "static/css/main.491852ca.css",
+    "static/css/main.1648d159.css",
     "static/js/main.61ff339c.js"
   ]
 }
